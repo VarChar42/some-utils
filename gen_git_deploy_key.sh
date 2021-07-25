@@ -4,7 +4,7 @@ ssh_dir="~/.ssh"
 
 # ssh_dir="$(pwd)"
 
-deploy_key_dir="$ssh_dir/deploy_keys/"
+deploy_key_dir="$ssh_dir/deploy_keys"
 config_file="$ssh_dir/config"
 
 hostname="github.com"
