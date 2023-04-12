@@ -13,7 +13,6 @@ winget install -e --id Valve.Steam
 winget install -e --id Microsoft.VisualStudio.2022.Community
 winget install -e --id JetBrains.Toolbox
 winget install -e --id OpenJS.NodeJS.LTS
-npm install yarn --global
 winget install -e --id Docker.DockerDesktop
 winget install -e --id Python.Python.3.11
 
